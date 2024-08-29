@@ -1,6 +1,15 @@
-#page {
-  margin: 88px 190px 137px 160px;
-  text-align: justify;
-footer{
-  position-: center;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Open sans", sans-serif;
+  color: #1b1b1b;
+}
+
+.container{
+  width: 1120px;
+  margin: 88px auto 65px;
 }
